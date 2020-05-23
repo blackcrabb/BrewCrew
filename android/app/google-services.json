@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248743157513",
+    "firebase_url": "https://black-brewcrew.firebaseio.com",
+    "project_id": "black-brewcrew",
+    "storage_bucket": "black-brewcrew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248743157513:android:ba5442b9cb0f1c658d3dd8",
+        "android_client_info": {
+          "package_name": "com.blackcrabb.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248743157513-0so48boabejh2ns4njq8trh6d6pbt5nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_8gBlrbRmcY3YjoNnGKCNRivgLCoxls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248743157513-0so48boabejh2ns4njq8trh6d6pbt5nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
